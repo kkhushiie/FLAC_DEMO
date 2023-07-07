@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FLAC_DEMO/static/css/main.27e603e6.css",
+    "main.js": "/FLAC_DEMO/static/js/main.8197feaf.js",
+    "static/js/787.a62cf145.chunk.js": "/FLAC_DEMO/static/js/787.a62cf145.chunk.js",
+    "index.html": "/FLAC_DEMO/index.html",
+    "main.27e603e6.css.map": "/FLAC_DEMO/static/css/main.27e603e6.css.map",
+    "main.8197feaf.js.map": "/FLAC_DEMO/static/js/main.8197feaf.js.map",
+    "787.a62cf145.chunk.js.map": "/FLAC_DEMO/static/js/787.a62cf145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e603e6.css",
+    "static/js/main.8197feaf.js"
+  ]
+}
