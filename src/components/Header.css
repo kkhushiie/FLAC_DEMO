@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    color: rgba(0, 0, 0, 0.87);
+    font-family: "poppins","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 3.5;
+    letter-spacing: 0.00938em;
+    background-color: #fff;
+}
+.button-text {
+    position: absolute;
+    word-wrap: break-word;
+    bottom: 5%;
+    width: 100%;
+    left: 0%;
+    font-size: 15rem;
+    font-weight: bold;
+    line-height: 0.95;
+
+ }
+ .square-button {
+    width: 198px;
+    height: 198px;
+    float: left;
+    position: relative;
+ }
+ .circle {
+    margin-left: -76px;
+    margin-top: -117px;
+    display: flex;
+    width: 319px;
+    height: 278px;
+    background-image: radial-gradient(#f9965c, #F5CEB1);
+    border-radius: 0% 0% 90% 0%;
+}
+.circle1 {
+    margin-left: -76px;
+    margin-top: -117px;
+    display: flex;
+    width: 322px;
+    height: 322px;
+    background-color: #E4E4E4;
+    border-radius: 0% 0% 63% 0%;
+}
+.btn{
+    background-color: #da753a;
+    width: 120px;
+}
+.appbar{
+    color: #da753a;
+}
