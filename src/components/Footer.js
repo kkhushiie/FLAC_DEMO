@@ -18,17 +18,17 @@ export default function Footer() {
         <Grid container spacing={5}>
         <Grid item xs={12} sm={4}>
         <Typography variant="h4" color="white" gutterBottom> Contact Us </Typography>
-	<Link href="https://wa.me/+919461299504">
-        <Chip icon={<WhatsAppIcon style={{ color: '#4EFA55'}} /> } label={"+91 9876543212"}  style={{ color: 'white' }} />
+	<Link href="https://wa.me/+91xxxxxxxxxx">
+        <Chip icon={<WhatsAppIcon style={{ color: '#4EFA55'}} /> } label={"+91 xxxxxxxxxx"}  style={{ color: 'white' }} />
 	</Link>
         <Grid item xs={12} sm={12}>
-	<Link href="Tel:+919461299504">
-        <Chip icon={<MdPhone style={{ color: '#E95C0D'}}/>} label={"+91 9876543212"}  style={{ color: 'white' }} />
+	<Link href="Tel:+91xxxxxxxxxx">
+        <Chip icon={<MdPhone style={{ color: '#E95C0D'}}/>} label={"+91 xxxxxxxxxx"}  style={{ color: 'white' }} />
 	</Link>        
 </Grid>
       <Grid item xs={12} sm={12}>
-	<Link href="mailto:info@flacservices.com">
-      <Chip icon={<MarkunreadIcon style={{ color: 'white'}} />} label={"info@flacservices.com"}  style={{ color: 'white' }} />
+	<Link href="mailto:xxxxxxxx.com">
+      <Chip icon={<MarkunreadIcon style={{ color: 'white'}} />} label={"info@abcservices.com"}  style={{ color: 'white' }} />
 	</Link>      
 </Grid>
         </Grid>
@@ -36,7 +36,7 @@ export default function Footer() {
           <Typography variant="h4" color="black" gutterBottom>.</Typography>
 	<Link href="https://goo.gl/maps/cjXQqzuxzxfXQ9or6">
           <Chip icon={<LocationOnIcon style={{ color: '#E95C0D'}}/>} style={{ color: 'white' }}/>
-         <Typography variant="h8" color="white" gutterBottom> 5R8R+G9P, Rawatbhata Rd, Kota Airport Area, /n Gumanpura, Kota, Rajasthan 324007</Typography>
+         <Typography variant="h8" color="white" gutterBottom> Curabitur convallis ac quam vitae laoreet.</Typography>
           </Link></Grid>
         </Grid>
         <Divider color='white' />
