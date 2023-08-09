@@ -34,7 +34,7 @@ export default function Footer() {
         </Grid>
         <Grid item xs={12} sm={8}>
           <Typography variant="h4" color="black" gutterBottom>.</Typography>
-	<Link href="https://goo.gl/maps/cjXQqzuxzxfXQ9or6">
+	<Link href="https://goo.gl/maps/">
           <Chip icon={<LocationOnIcon style={{ color: '#E95C0D'}}/>} style={{ color: 'white' }}/>
          <Typography variant="h8" color="white" gutterBottom> Curabitur convallis ac quam vitae laoreet.</Typography>
           </Link></Grid>
@@ -47,10 +47,10 @@ export default function Footer() {
         </Grid>
         <Grid item xs={4}>
         <Box display="flex" justifyContent="flex-end">
-        <Link href="https://www.linkedin.com/company/flacservices/?originalSubdomain=in" style={{ color: '#007BB7' }} ><LinkedIn /></Link>
-        <Link href="https://www.instagram.com/flackaro/" sx={{ pl: 1, pr: 1 }} style={{  color: '#CC4732' }}><Instagram /></Link>
+        <Link href="#" style={{ color: '#007BB7' }} ><LinkedIn /></Link>
+        <Link href="#" sx={{ pl: 1, pr: 1 }} style={{  color: '#CC4732' }}><Instagram /></Link>
 
-        <Link href="https://twitter.com/i/flow/login?redirect_after_login=%2Fflackaro" style={{ color: '#007BB7' }}><Twitter /></Link>
+        <Link href="#" style={{ color: '#007BB7' }}><Twitter /></Link>
         </Box>
         </Grid>
       </Grid>
