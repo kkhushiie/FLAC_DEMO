@@ -84,7 +84,7 @@ export default function FlacDrawer() {
       <AppBar color='inherit' open={open}>
         <Toolbar>
           <Typography variant="h6" noWrap sx={{ flexGrow: 1 }} component="div">
-            FLAC
+           ABC
           </Typography>
           <IconButton
             color="white"
@@ -146,40 +146,5 @@ export default function FlacDrawer() {
         </List>
       </Drawer>
     </Box>
-    
-
     );
 }
-
-// import React from 'react'
-// import {Drawer,Box, Typography, IconButton, Paper } from "@mui/material/"
-// import { useState } from 'react'
-// import MenuIcon from '@mui/icons-material/Menu';
-
-// const FlacDrawer = () => {
-//   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
-//     return (
-//         <div>
-        
-//         <Paper sx={{paddingLeft:"10px", display:"flex", alignItems:"center", width:'200px', justifyContent:"space-between", borderRadius:"15px", marginLeft:"1100px"}}>
-//         <Typography sx={{marginLeft:"10px",fontWeight:"bold"}}>
-//             FLAC
-//         </Typography>
-//         <IconButton size='large' onClick={() => setIsDrawerOpen(true)}>
-//             <MenuIcon  />
-//         </IconButton>
-//         </Paper>
-//     <Drawer anchor="right" open={isDrawerOpen} onClose={() => setIsDrawerOpen(false)}>
-
-//         <Box p={2} width="250px" textAlign="center" >
-//         <Typography variant='h6' component='div'></Typography>
-//         Side Panel
-//         </Box>
-
-
-//     </Drawer>
-//     </div>
-//   )
-// }
-
-// export default FlacDrawer
